@@ -9,6 +9,7 @@ export const metadata = {
 }
 
 export default function Layout({ children }) {
+
     return (
         <AdminLayout>
             <div className="md:flex">
